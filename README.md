@@ -1,3 +1,9 @@
+![GitHub issues](https://img.shields.io/github/issues-raw/Bohne9/N26-Insights-Web)
+
+![GitHub](https://img.shields.io/github/license/Bohne9/N26-Insights-Web)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Bohne9/N26-Insights-Web)
+
 # N26Insights
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
